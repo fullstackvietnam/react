@@ -11,7 +11,7 @@ import './index.css';
 
 const store = createStore<StoreState>(enthusiasm, {
   enthusiasmLevel: 1,
-  languageName: 'TypeScript',
+  languageName: 'FullStackVietnam',
 });
 
 ReactDOM.render(
